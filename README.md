@@ -22,7 +22,7 @@ A modern, modular School Management System (SMS) for Meru University.
 5. Open in browser: `http://127.0.0.1:5000`
 
 ## Deployment
-The app is deployment-ready on [Render](https://render.com), just connect your GitHub repo and follow Render’s Python web service setup.
+The app is deployment-ready on https://meruuniversity-sms-qjxhdww3nndygvnhfpcp5y.streamlit.app/
 
 ## License
 MIT License
