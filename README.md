@@ -13,7 +13,8 @@ A modern, modular School Management System (SMS) for Meru University.
 ## Technologies
 - **Backend:** Python, Flask, SQLite
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Deployment:** Render
+- **Deployment:** Streamlit
+- 
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/YourUsername/MeruUniversity-SMS.git`
