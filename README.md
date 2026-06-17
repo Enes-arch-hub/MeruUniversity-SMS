@@ -1,8 +1,6 @@
 # MeruUniversity-SMS
 
-
 A modern, modular School Management System (SMS) for Meru University.
-
 
 ## Features
 - **Student Management:** Add, view, and manage student records.
