@@ -12,6 +12,7 @@ A modern, modular School Management System (SMS) for Meru University
 
 
 ## Technologies
+
 - **Backend:** Python, Flask, SQLite
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Deployment:** Streamlit
