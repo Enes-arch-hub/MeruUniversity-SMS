@@ -11,7 +11,6 @@ A modern, modular School Management System (SMS) for Meru University
 - **Library Management:** Add books, borrow/return, track availability.
 - **Performance Analytics:** Record scores, view top performers.
 
-
 ## Technologies
 
 - **Backend:** Python, Flask, SQLite
