@@ -1,9 +1,7 @@
 # MeruUniversity-SMS
-
 A modern, modular School Management System (SMS) for Meru University
 
 ## Features
-
 - **Student Management:** Add, view, and manage student records.
 - **Course Management:** Register courses, allocate students, track enrollments.
 - **Fee Tracking:** Record payments, view fee status.
